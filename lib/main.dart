@@ -1,17 +1,20 @@
 import 'package:flutter/material.dart';
 
+// Test Git Branch - Ariston Rais Zidane
+
 void main() {
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+  //hahah
 
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Belajar Demo Git',
+      title: 'Flutter Demo aja',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -29,6 +32,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//Ini comment class fajar haf
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
