@@ -6,12 +6,13 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+  //hahah
 
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Belajar Demo Git',
+      title: 'Flutter Demo aja',
       theme: ThemeData(
         // This is the theme of your application.
         //
