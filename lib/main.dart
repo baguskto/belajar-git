@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//Ini comment class fajar ha
+//Ini comment class fajar h
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
